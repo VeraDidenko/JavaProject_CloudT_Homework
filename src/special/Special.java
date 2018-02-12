@@ -21,6 +21,10 @@ public class Special {
         {
            System.out.println("A Special Java Project :-)"); 
         }
+	else
+	{
+	   System.out.println("A simple Java Project :-)"); 
+        }
        
         
     }
