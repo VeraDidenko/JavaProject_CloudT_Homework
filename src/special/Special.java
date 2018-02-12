@@ -16,8 +16,8 @@ public class Special {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String project = "special";
-        if(project.equals("special"))
+        
+        if(true)
         {
            System.out.println("A Special Java Project :-)"); 
         }
